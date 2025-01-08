@@ -1,0 +1,745 @@
+[17-Mar-2024 16:18:11 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 16:18:11 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 16:18:11 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 17:23:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[17-Mar-2024 17:24:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[17-Mar-2024 17:24:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[17-Mar-2024 18:18:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 18:18:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 18:19:22 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[17-Mar-2024 18:19:52 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 18:19:52 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 18:19:55 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[17-Mar-2024 18:19:55 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[17-Mar-2024 18:19:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[17-Mar-2024 18:20:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[17-Mar-2024 18:20:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[17-Mar-2024 18:20:00 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[17-Mar-2024 18:20:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[17-Mar-2024 18:20:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 18:20:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 18:20:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 18:20:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 18:21:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 18:21:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 18:21:42 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 18:21:42 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 18:22:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 18:22:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:20:30 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:20:30 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:20:48 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:20:48 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:21:01 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[17-Mar-2024 19:21:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:21:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:22:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[17-Mar-2024 19:22:54 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:22:54 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:22:54 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:04 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[17-Mar-2024 19:23:04 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[17-Mar-2024 19:23:04 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[17-Mar-2024 19:23:05 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[17-Mar-2024 19:23:15 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:15 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:15 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:20 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[17-Mar-2024 19:23:20 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[17-Mar-2024 19:23:20 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[17-Mar-2024 19:23:21 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[17-Mar-2024 19:23:29 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:29 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:29 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:34 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:34 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:34 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:40 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[17-Mar-2024 19:23:40 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[17-Mar-2024 19:23:40 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[17-Mar-2024 19:23:40 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[17-Mar-2024 19:23:46 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:46 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:23:46 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[17-Mar-2024 19:24:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:24:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:24:30 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[17-Mar-2024 19:24:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:24:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:24:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[17-Mar-2024 19:24:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[17-Mar-2024 19:24:56 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[17-Mar-2024 19:24:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[17-Mar-2024 19:25:11 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 246
+[17-Mar-2024 19:25:11 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 281
+[17-Mar-2024 19:25:17 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 246
+[17-Mar-2024 19:25:17 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 281
+[17-Mar-2024 19:25:20 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 246
+[17-Mar-2024 19:25:20 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 281
+[17-Mar-2024 19:34:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[17-Mar-2024 19:34:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[17-Mar-2024 19:34:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[17-Mar-2024 19:34:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[17-Mar-2024 19:34:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:34:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:34:41 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[17-Mar-2024 19:35:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:35:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:35:46 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:35:46 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:35:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[17-Mar-2024 19:35:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[17-Mar-2024 19:36:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[17-Mar-2024 19:36:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[17-Mar-2024 19:36:01 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[17-Mar-2024 19:36:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[17-Mar-2024 19:36:08 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 246
+[17-Mar-2024 19:36:08 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 281
+[17-Mar-2024 19:36:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[17-Mar-2024 19:36:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[17-Mar-2024 19:36:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[17-Mar-2024 19:36:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[17-Mar-2024 19:36:18 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 246
+[17-Mar-2024 19:36:18 Asia/Calcutta] PHP Notice:  Undefined variable: owncode in /home/clubin/public_html/team.php on line 281
+[18-Mar-2024 07:25:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 07:25:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 07:25:26 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:26 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:26 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:35 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:35 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:38 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:38 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:38 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:40 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:40 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:58 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:58 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:25:58 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:26:00 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:26:00 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:26:00 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:26:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[18-Mar-2024 07:26:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[18-Mar-2024 07:26:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[18-Mar-2024 07:26:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[18-Mar-2024 07:26:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[18-Mar-2024 07:26:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[18-Mar-2024 07:26:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[18-Mar-2024 07:26:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[18-Mar-2024 07:27:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[18-Mar-2024 07:27:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[18-Mar-2024 07:27:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[18-Mar-2024 07:27:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[18-Mar-2024 07:27:43 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:43 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:43 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:45 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:45 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:52 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:52 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:27:52 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[18-Mar-2024 07:28:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 07:28:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 07:28:42 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 07:28:42 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 11:11:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[18-Mar-2024 11:12:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[18-Mar-2024 11:12:52 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
+[18-Mar-2024 11:13:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
+[18-Mar-2024 11:13:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[18-Mar-2024 11:13:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[18-Mar-2024 11:13:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[18-Mar-2024 11:13:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[18-Mar-2024 12:39:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 12:39:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 12:40:05 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:40:05 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:40:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:40:20 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[18-Mar-2024 12:40:20 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[18-Mar-2024 12:40:20 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[18-Mar-2024 12:40:20 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[18-Mar-2024 12:40:28 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:40:28 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:40:28 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:40:30 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 12:40:30 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 12:40:43 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[18-Mar-2024 12:41:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 12:41:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 12:41:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:10 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:10 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:22 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[18-Mar-2024 12:41:22 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[18-Mar-2024 12:41:22 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[18-Mar-2024 12:41:23 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[18-Mar-2024 12:41:25 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:25 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 12:41:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[18-Mar-2024 09:04:04 UTC] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/reset_password.php on line 4
+[18-Mar-2024 14:34:04 Asia/Calcutta] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/reset_password.php on line 6
+[18-Mar-2024 14:34:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 81
+[18-Mar-2024 14:34:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 81
+[18-Mar-2024 14:34:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 81
+[18-Mar-2024 14:34:04 Asia/Calcutta] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/reset_password.php on line 199
+[18-Mar-2024 17:32:59 Asia/Calcutta] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/helpcenter.php on line 155
+[18-Mar-2024 17:33:04 Asia/Calcutta] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/helpcenter.php on line 155
+[18-Mar-2024 17:34:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 17:34:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 17:35:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 17:35:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 17:35:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[18-Mar-2024 17:35:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[18-Mar-2024 17:35:04 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[18-Mar-2024 17:35:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[18-Mar-2024 17:52:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[18-Mar-2024 17:52:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[18-Mar-2024 15:33:55 UTC] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/reset_password.php on line 4
+[18-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/reset_password.php on line 6
+[18-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 81
+[18-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 81
+[18-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 81
+[18-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/reset_password.php on line 199
+[19-Mar-2024 01:05:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 01:05:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 09:14:06 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 09:15:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 09:17:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 09:17:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 09:17:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 09:17:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 09:17:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 09:17:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 09:17:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 09:17:38 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:17:38 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:17:38 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:17:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 09:17:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 09:18:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[19-Mar-2024 09:18:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[19-Mar-2024 09:18:25 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[19-Mar-2024 09:18:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[19-Mar-2024 09:18:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[19-Mar-2024 09:18:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[19-Mar-2024 09:18:45 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[19-Mar-2024 09:18:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[19-Mar-2024 09:19:07 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 09:19:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 09:26:55 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:26:55 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:26:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:01 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:01 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:01 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:08 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:08 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:08 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:12 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:12 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:14 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:14 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:14 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:31 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:31 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:31 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:53 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:53 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 09:27:53 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 10:28:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 10:28:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 10:28:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 10:28:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 10:29:20 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[19-Mar-2024 10:30:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 10:30:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 10:54:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 10:54:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[19-Mar-2024 10:54:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[19-Mar-2024 10:54:45 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[19-Mar-2024 10:54:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[19-Mar-2024 10:54:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 10:54:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 10:55:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 10:55:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 11:00:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 11:00:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 11:01:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[19-Mar-2024 11:01:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[19-Mar-2024 11:01:05 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[19-Mar-2024 11:01:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[19-Mar-2024 11:01:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 11:01:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 11:01:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 11:01:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 11:46:10 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[19-Mar-2024 11:57:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 11:58:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 11:58:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 11:58:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 11:58:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 11:58:44 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 11:58:44 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 11:58:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 11:59:32 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 11:59:32 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 11:59:32 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[19-Mar-2024 07:24:16 UTC] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/recharge.php on line 4
+[19-Mar-2024 14:18:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[19-Mar-2024 14:18:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[19-Mar-2024 14:18:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[19-Mar-2024 14:18:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[19-Mar-2024 14:18:07 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 14:18:07 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 14:18:23 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[19-Mar-2024 14:18:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 14:18:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 14:19:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:19:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:20:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:20:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:21:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:21:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:21:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:21:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
+[19-Mar-2024 14:21:50 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
+[19-Mar-2024 14:22:22 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[19-Mar-2024 14:22:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[19-Mar-2024 14:22:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[19-Mar-2024 14:22:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[19-Mar-2024 14:22:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[19-Mar-2024 14:22:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[19-Mar-2024 14:22:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[19-Mar-2024 14:45:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection2.php on line 356
+[19-Mar-2024 14:45:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection2.php on line 356
+[19-Mar-2024 14:45:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection2.php on line 356
+[19-Mar-2024 14:45:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection2.php on line 356
+[19-Mar-2024 14:45:56 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
+[19-Mar-2024 21:06:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:06:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:52 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:07:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:42 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:52 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:08:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:09:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:09:03 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:09:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[19-Mar-2024 21:09:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 08:11:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 08:12:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 08:13:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 10:34:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 10:34:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 10:34:35 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[20-Mar-2024 10:34:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 10:34:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 10:43:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[20-Mar-2024 10:43:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[20-Mar-2024 10:43:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[20-Mar-2024 10:43:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[20-Mar-2024 10:43:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[20-Mar-2024 10:43:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[20-Mar-2024 10:43:53 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[20-Mar-2024 10:43:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[20-Mar-2024 10:44:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 13:59:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 13:59:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 13:59:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 13:59:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 18:52:06 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 18:53:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[20-Mar-2024 18:53:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[20-Mar-2024 18:53:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[20-Mar-2024 18:53:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[20-Mar-2024 19:01:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:01:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:02:41 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:02:41 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:02:41 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:03:02 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:03:02 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:03:02 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:04:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:05:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:08:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 19:09:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:12:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:12:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:18:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:19:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 19:19:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 19:19:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 19:19:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 19:21:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:21:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:21:30 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:23:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 19:23:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 19:23:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 19:23:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 19:26:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:31:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:31:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:33:39 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:33:39 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:33:39 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:34:59 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:34:59 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:34:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 19:41:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 19:44:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 19:44:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 19:44:34 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 19:44:34 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 19:44:34 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 19:52:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 19:56:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 20:00:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 20:01:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 20:03:15 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:03:15 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:03:15 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:03:47 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:03:47 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:03:47 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:05:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/addbankcardNow.php on line 37
+[20-Mar-2024 20:05:41 Asia/Calcutta] PHP Notice:  Undefined variable: ifsc in /home/clubin/public_html/addbankcardNow.php on line 55
+[20-Mar-2024 20:06:08 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:06:08 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:06:08 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:06:21 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:06:21 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:06:21 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:10 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:20 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:20 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:20 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/addbankcardNow.php on line 37
+[20-Mar-2024 20:20:38 Asia/Calcutta] PHP Notice:  Undefined variable: ifsc in /home/clubin/public_html/addbankcardNow.php on line 55
+[20-Mar-2024 20:20:44 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:44 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:20:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:23:06 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:23:06 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:23:06 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:26:23 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:26:23 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:26:23 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:26:42 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:26:42 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:26:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 20:27:42 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[20-Mar-2024 20:34:13 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[20-Mar-2024 20:36:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 20:36:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 20:36:25 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:36:25 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:36:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:36:41 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[20-Mar-2024 20:36:41 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[20-Mar-2024 20:36:41 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[20-Mar-2024 20:36:42 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[20-Mar-2024 20:36:53 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:36:53 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:36:53 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:38:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 20:38:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 20:58:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 20:58:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 20:59:17 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:59:17 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 20:59:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[20-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[20-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[20-Mar-2024 21:03:55 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[20-Mar-2024 21:03:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[20-Mar-2024 21:04:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[20-Mar-2024 21:04:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[20-Mar-2024 21:05:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[20-Mar-2024 21:05:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[20-Mar-2024 21:05:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 99
+[20-Mar-2024 21:05:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[20-Mar-2024 21:05:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[20-Mar-2024 21:10:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:11:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:11:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:14:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:14:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:37:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:37:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:38:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:47:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:47:21 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 21:47:21 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 21:47:21 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 21:49:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:49:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[20-Mar-2024 21:55:06 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 21:55:06 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 21:55:06 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[20-Mar-2024 22:34:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 22:34:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 22:34:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 22:34:34 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[20-Mar-2024 22:34:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[21-Mar-2024 07:06:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 07:06:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 07:07:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 07:07:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 07:13:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 07:43:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[21-Mar-2024 07:43:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[21-Mar-2024 08:40:58 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 08:40:58 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 10:04:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 12:06:06 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 12:08:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 12:09:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 13:41:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 13:41:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 13:41:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 13:41:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 13:41:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[21-Mar-2024 13:41:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[21-Mar-2024 13:41:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[21-Mar-2024 13:41:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[21-Mar-2024 13:41:56 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[21-Mar-2024 13:41:56 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[21-Mar-2024 13:41:56 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[21-Mar-2024 13:42:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[21-Mar-2024 13:42:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[21-Mar-2024 13:42:00 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[21-Mar-2024 13:42:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[21-Mar-2024 13:42:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[21-Mar-2024 13:42:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[21-Mar-2024 13:42:04 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[21-Mar-2024 13:42:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[21-Mar-2024 13:42:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 13:42:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 13:42:22 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[21-Mar-2024 13:42:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[21-Mar-2024 13:43:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 13:44:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 13:44:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 13:44:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 13:44:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 13:45:12 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:12 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:17 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:17 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:32 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:32 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:32 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:43 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:43 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:45:43 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:46:13 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:46:13 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:46:13 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:46:18 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:46:18 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:46:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 13:47:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 13:47:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 13:47:37 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 13:47:37 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 13:48:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
+[21-Mar-2024 15:22:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 15:22:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 15:23:06 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[21-Mar-2024 15:24:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 15:24:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 15:24:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 15:24:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 15:24:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 15:24:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 15:24:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[21-Mar-2024 15:24:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[21-Mar-2024 15:24:14 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[21-Mar-2024 15:24:14 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[21-Mar-2024 15:26:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 15:26:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 15:26:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 15:26:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 15:27:11 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 15:27:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 15:27:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 19:02:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[21-Mar-2024 19:03:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[21-Mar-2024 19:03:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[21-Mar-2024 19:03:16 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:16 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:16 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:20 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:20 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:20 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:47 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:47 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:03:47 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:04:12 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:04:12 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:04:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:04:16 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:04:16 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 19:04:16 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[21-Mar-2024 20:07:40 Asia/Calcutta] PHP Notice:  Undefined index: frontuserid in /home/clubin/public_html/helpcenter.php on line 155
+[22-Mar-2024 06:16:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:16:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:16:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:16:46 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:16:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:16:52 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:16:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:16:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:17:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:17:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 06:58:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection.php on line 409
+[22-Mar-2024 07:01:46 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:01:46 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:01:46 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:02:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[22-Mar-2024 07:02:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[22-Mar-2024 07:02:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 93
+[22-Mar-2024 07:02:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 99
+[22-Mar-2024 07:02:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[22-Mar-2024 07:02:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[22-Mar-2024 07:02:31 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:02:31 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:02:31 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:05:16 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:05:16 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:05:16 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:05:20 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:05:20 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:05:20 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:06:23 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:06:23 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 07:06:23 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 11:08:50 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[22-Mar-2024 11:08:50 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[22-Mar-2024 11:08:50 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 93
+[22-Mar-2024 11:08:50 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 99
+[22-Mar-2024 11:08:51 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[22-Mar-2024 11:08:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[22-Mar-2024 11:08:58 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 11:08:58 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 11:19:24 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[22-Mar-2024 11:56:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[22-Mar-2024 13:36:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 13:36:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 18:35:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[22-Mar-2024 18:35:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[22-Mar-2024 18:38:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[22-Mar-2024 18:38:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/include/connection1.php on line 356
+[22-Mar-2024 18:38:26 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[22-Mar-2024 18:38:26 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[22-Mar-2024 18:38:26 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[22-Mar-2024 18:38:34 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[22-Mar-2024 18:38:34 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[22-Mar-2024 18:38:34 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[22-Mar-2024 18:38:34 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[22-Mar-2024 18:39:01 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[22-Mar-2024 18:39:01 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[22-Mar-2024 18:39:01 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[22-Mar-2024 19:58:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 19:58:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 19:58:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 19:58:12 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 19:59:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 19:59:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 19:59:31 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 19:59:31 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 19:59:31 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 19:59:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 19:59:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 20:00:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 78
+[22-Mar-2024 20:00:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 79
+[22-Mar-2024 20:00:51 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/promotion.php on line 171
+[22-Mar-2024 20:00:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/promotion.php on line 237
+[22-Mar-2024 20:09:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 20:09:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 23:04:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 23:04:39 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 23:04:51 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:04:51 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:04:51 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:05:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 23:05:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 23:05:36 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:05:36 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:05:36 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:05:48 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:05:48 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:05:48 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/withdrawal.js.php on line 2
+[22-Mar-2024 23:07:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 23:07:00 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 23:08:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 23:08:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 23:11:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 23:11:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[22-Mar-2024 23:11:46 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[22-Mar-2024 23:11:46 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[23-Mar-2024 01:39:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
+[23-Mar-2024 01:39:49 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:39:49 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:39:49 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:39:52 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/clubin/public_html/paymentdetailsessionNow.php on line 7
+[23-Mar-2024 01:39:52 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/clubin/public_html/paymentdetailsessionNow.php on line 8
+[23-Mar-2024 01:39:52 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/clubin/public_html/paymentdetailsessionNow.php on line 9
+[23-Mar-2024 01:39:52 Asia/Calcutta] PHP Notice:  Undefined variable: formError in /home/clubin/public_html/checkout.php on line 109
+[23-Mar-2024 01:39:59 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:39:59 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:39:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:40:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[23-Mar-2024 01:40:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[23-Mar-2024 01:40:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 88
+[23-Mar-2024 01:40:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/clubin/public_html/wallet.php on line 89
+[23-Mar-2024 01:40:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:40:10 Asia/Calcutta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:40:10 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clubin/public_html/assets/js/payments.js.php on line 2
+[23-Mar-2024 01:40:13 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/clubin/public_html/getResultbyCategory3.php on line 111
